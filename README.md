@@ -1,6 +1,12 @@
 # Store analysis with Python and Creating dashboard in PowerBI  
 
-
+Contains next files:  
+Store_Sales.csv - initial data  
+bigstore-sales-analysis.ipynb - Python worksheet  
+store_result.csv - Data received after Python analysis  
+Dashboard.pbix - Interactive PowerBI Dashboard  
+Dashboard.pdf - displaying an inactive dashboard   
+  
 **Python part (Pandas, Mathplotlib)**  
   
 1. Data cleaning and preparation  
@@ -22,10 +28,10 @@ SUMMING UP THE GENERAL CONCLUSION FOR EACH SECTION
 3. Creating interactive Dashboard  
 3.1 Importing data from a csv file  
 3.2. Changing the numeric values of Order ID, Order Quantity to integers, Sales and Shipping Soct to decimal numbers with a separator "," instead of "."  
-3.3. Create an active dashboard and edit visualisations:  
+3.3. Create an interactive dashboard and edit visualisations:  
 -Card for Total Profit, Number of Sales and Average Check.  
 -Bar chart to display sales by region  
-Line chart of sales by year with 1-year forecast  
+-Line chart of sales by year with 1-year forecast  
 -Tree chart showing percentages by category  
 -Pie chart showing the distribution by category  
 -Filters by order priority and delivery type  
