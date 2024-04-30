@@ -35,3 +35,6 @@ SUMMING UP THE GENERAL CONCLUSION FOR EACH SECTION
 -Tree chart showing percentages by category  
 -Pie chart showing the distribution by category  
 -Filters by order priority and delivery type  
+
+Photo of the rasult Dashboard:  
+![Dashboard-1](https://github.com/Yurii-Molotow/Store_analysisdashboard/assets/168109152/2d2ab850-29cb-4f15-b40d-09386a0fff3e)
